@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document reference="suspicious-document00002.txt">
+  <feature name="about" authors="Webster, Thomas" title="Woman: Man's Equal" lang="en" />
+  <feature name="md5Hash" value="54135f4951d9aef86abdec826006ef8e" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="152771" this_length="20085" />
+  <feature name="plagiarism" type="artificial" obfuscation="none" this_language="en" this_offset="222375" this_length="5029" />
+</document>
+
