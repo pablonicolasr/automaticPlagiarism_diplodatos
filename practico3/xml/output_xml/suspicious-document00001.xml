@@ -1,6 +1,6 @@
 <document reference="suspicious-document00001.txt">
-  <feature name="detected-plagiarism" this_offset="36" this_length="172"/>
-  <feature name="detected-plagiarism" this_offset="45" this_length="1366"/>
-  <feature name="detected-plagiarism" this_offset="643" this_length="57"/>
-  <feature name="detected-plagiarism" this_offset="1014" this_length="403"/>
+  <feature name="detected-plagiarism" this_offset="9209" this_length="172"/>
+  <feature name="detected-plagiarism" this_offset="15545" this_length="1366"/>
+  <feature name="detected-plagiarism" this_offset="18124" this_length="57"/>
+  <feature name="detected-plagiarism" this_offset="21454" this_length="403"/>
 </document>
